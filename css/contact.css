@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.main{width:1140px;margin:0 auto;text-align: center;}
+.main h2{padding-top: 57px;line-height: 96px;height: 96px;color: #020202;font-size: 30px;}
+.main p{color: #9d9d9d;font-size: 13px;line-height: 23px;padding: 0 110px 31px;}
+.main .text{width: 333px;height: 47px;border: 1px solid #dcdbe0;background: #ededed;border-radius: 4px;font-size: 17px;color: #acacac;padding: 0 17px;}
+.main textarea{width: 1081px;height: 248px;border: 1px solid #dcdbe0;background: #ededed;border-radius: 4px;font-size: 17px;color: #acacac;padding: 0 17px;font-family: arial;line-height: 47px;margin: 24px 0 45px 0;}
+.main .sub{width: 225px;height: 57px;background: #ed5844;border-radius: 4px;box-shadow: 0 0 7px rgba(0,0,0,.5) inset;font-weight: bold;font-size: 15px;color: #fff;margin-bottom:42px;}
